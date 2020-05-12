@@ -22,8 +22,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/lupinelegend/boilerplate",
+  "manifest": "https://raw.githubusercontent.com/lupinelegend/boilerplate/master/system.json",
+  "download": "https://github.com/lupinelegend/boilerplate/archive/master.zip",
   "license": "LICENSE.txt"
 }
