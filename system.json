@@ -23,7 +23,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/lupinelegend/boilerplate",
-  "manifest": "https://raw.githubusercontent.com/lupinelegend/boilerplate/master/system.json",
+  "manifest": "https://github.com/lupinelegend/boilerplate/raw/master/system.json",
   "download": "https://github.com/lupinelegend/boilerplate/archive/master.zip",
   "license": "LICENSE.txt"
 }
