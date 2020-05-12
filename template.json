@@ -230,7 +230,7 @@
 				"neck": {
 					"neckworn": ""
 				},
-				"hands" {
+				"hands": {
 					"handsworn1": "",
 					"handsworn2": "",
 					"handscarried1": "",
@@ -250,12 +250,12 @@
 					"beltcarried2": "",
 					"beltcarried3": ""
 				},
-				"pocket" {
+				"pocket": {
 					"pocketcarried1": "",
 					"pocketcarried2": "",
 					"pocketcarried3": ""
 				},
-				"satchelbackpack" {
+				"satchelbackpack": {
 					"satchelbackpackcarried1": "",
 					"satchelbackpackcarried2": "",
 					"satchelbackpackcarried3": "",
@@ -265,21 +265,21 @@
 					"satchelbackpackdropped": false,
 					"satchelbackpacklost": false,
 				},
-				"smallsack1" {
+				"smallsack1": {
 					"smallsack1carried1": "",
 					"smallsack1carried2": "",
 					"smallsack1carried": false,
 					"smallsack1dropped": false,
 					"smallsack1lost": false
 				},
-				"smallsack2" {
+				"smallsack2": {
 					"smallsack2carried1": "",
 					"smallsack2carried2": "",
 					"smallsack2carried": false,
 					"smallsack2dropped": false,
 					"smallsack2lost": false
 				},
-				"largesack" {
+				"largesack": {
 					"largesackcarried1": "",
 					"largesackcarried2": "",
 					"largesackcarried3": "",
@@ -310,57 +310,57 @@
 					"name": "",
 					"location": "",
 					"status": ""
-				}
+				},
 				"ally2": {
 					"name": "",
 					"location": "",
 					"status": ""
-				}
+				},
 				"ally3": {
 					"name": "",
 					"location": "",
 					"status": ""
-				}
+				},
 				"ally4": {
 					"name": "",
 					"location": "",
 					"status": ""
-				}
+				},
 				"ally5": {
 					"name": "",
 					"location": "",
 					"status": ""
-				}
+				},
 				"ally6": {
 					"name": "",
 					"location": "",
 					"status": ""
-				}
+				},
 				"ally7": {
 					"name": "",
 					"location": "",
 					"status": ""
-				}
+				},
 				"ally8": {
 					"name": "",
 					"location": "",
 					"status": ""
-				}
+				},
 				"ally9": {
 					"name": "",
 					"location": "",
 					"status": ""
-				}
+				},
 				"ally10": {
 					"name": "",
 					"location": "",
 					"status": ""
-				}
+				},
 				"ally11": {
 					"name": "",
 					"location": "",
 					"status": ""
-				}
+				},
 				"ally12": {
 					"name": "",
 					"location": "",
